@@ -9,7 +9,7 @@
 
 import os
 
-path = 'C:\\Users\\zfCode-i7\\Desktop\\Capture'
+path = r'D:\out\1'
 file_hz='.jpg'
 file_path_params='data/img/'
 count = 1
